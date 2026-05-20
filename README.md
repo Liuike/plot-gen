@@ -1,6 +1,6 @@
 # Academic Plot Generator
 
-Small matplotlib-based CLI for generating publication-ready line charts and bar graphs from CSV files.
+Small matplotlib-based CLI for generating publication-ready line charts and bar graphs from CSV files for personal usage.
 
 ## Setup
 
