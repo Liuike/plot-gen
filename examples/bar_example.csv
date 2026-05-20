@@ -1,0 +1,5 @@
+method,score
+Baseline,0.78
+Adam,0.82
+Muon,0.84
+Ours,0.87
